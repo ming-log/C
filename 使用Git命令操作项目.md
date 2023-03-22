@@ -1,12 +1,3 @@
----
-title: Anaconda安装步骤
-date: 2023-03-07 19:43:34
-tags:
-  - Git
-categories:
-  - 工具使用
----
-
 <font size=20><b>使用Git命令操作项目（图文教程）</b></font>
 
 # 配置Github密钥

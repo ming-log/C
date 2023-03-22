@@ -1,3 +1,12 @@
+---
+title: Anaconda安装步骤
+date: 2023-03-07 19:43:34
+tags:
+  - Git
+categories:
+  - 工具使用
+---
+
 <font size=20><b>使用Git命令操作项目（图文教程）</b></font>
 
 # 配置Github密钥
@@ -190,6 +199,8 @@ git push -u origin main
 # 修改远程仓库内容，本地仓库进行拉取同步
 
 ## 修改远程仓库文件内容
+
+将文件`新建文本文档.txt`内容修改为1234。
 
 <img src="http://ming-log.oss-cn-hangzhou.aliyuncs.com/img/image-20230321201811634.png" alt="image-20230321201811634" style="zoom:50%;" />
 
